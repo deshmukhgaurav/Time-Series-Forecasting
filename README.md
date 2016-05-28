@@ -7,8 +7,8 @@ Description:
 			data_trend_pred.R contains the functions performing reading and writing of data and forecast function.
 
 Requirement:
--Download R studio (https://cran.r-project.org/bin/windows/base/)
--forecast library v7.0
+- Download R studio (https://cran.r-project.org/bin/windows/base/)
+- forecast library v7.0
 
 Installation:
 		- Install the R studio from the link provided.
