@@ -11,8 +11,8 @@ Requirement:
 - forecast library v7.0
 
 Installation:
-		- Install the R studio from the link provided.
-		- Install the forecast library from package installer found in R studio. 
+- Install the R studio from the link provided.
+- Install the forecast library from package installer found in R studio. 
 
 Usage:
 		- Open the R studio change the working directory where all the R files and data files are present.
